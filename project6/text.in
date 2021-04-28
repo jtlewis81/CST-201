@@ -1,0 +1,1 @@
+Once the tree is populated, print the contents of the tree using an in order traversal. Next, allow the user to enter words to search for. For each word entered, your program should report the number of elements inspected and whether or not the word was located. Next, allow the user to enter words to remove from the tree. After each removal, print the contents of the tree.

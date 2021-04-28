@@ -1,0 +1,12 @@
+Jamie Lewis
+CST-201
+2/6/21
+Instructor Jeremy Wright
+
+Project 3 - Doubly-Linked List
+
+Link to Loom video: https://www.loom.com/share/72986405d8a14529a0371c7677556a04
+
+This is a product of my own work.
+
+NOTE: In my video, I made a comment about the time complexity of the merge() method maybe being O(2(n+m)), but then I realized that it is still O(n+m).
